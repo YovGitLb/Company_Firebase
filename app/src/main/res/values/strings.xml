@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CompanyFirebase</string>
+    <string name="app_user">Usuario</string>
+    <string name="app_pass">Password</string>
+    <string name="app_btnInciar">Iniciar Sesion</string>
+    <string name="app_send">Olvidaste tu contraseña</string>
+    <string name="app_question">Si no tienes una cuenta registrate</string>
+    <string name="app_register">Register</string>
+
+
+</resources>
