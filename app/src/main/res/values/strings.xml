@@ -8,4 +8,16 @@
     <string name="app_register">Register</string>
 
 
+    <string name="app_names">Name</string>
+    <string name="app_lastname">Lastname</string>
+    <string name="app_email">Email</string>
+    <string name="app_pass_register">Password</string>
+    <string name="app_pass_repeat">Repeat Password</string>
+    <string name="app_register_button">Register</string>
+
+
+    <string name="app_sendEmail">Email</string>
+    <string name="app_send_button">Send</string>
+
+
 </resources>
